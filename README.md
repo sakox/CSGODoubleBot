@@ -10,7 +10,7 @@ Full site dark mode
 
 ![Screenshot](http://imgur.com/IvhxJ1f.png)
 
-## [![Install](https://i.imgur.com/hKHfyWz.png)](https://raw.githubusercontent.com/richiijs/csgodoublebot/master/csgodouble.com-automated.user.js)
+## [![Install](https://i.imgur.com/hKHfyWz.png)](https://raw.githubusercontent.com/sakox/SakoxCSGODobuleBot/master/SakoxRouletteBot.js)
 
 ## Requirements
 Requires [Greasemonkey](http://www.greasespot.net/) on Firefox and [Tampermonkey](http://tampermonkey.net/) on Chrome.
