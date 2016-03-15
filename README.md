@@ -1,5 +1,5 @@
 # CSGODouble/Polygon Auto betting bot
-# Use Referal code Sakox
+# Use Referal code Sakox for free coins
 ### Userscript that bets for you! Automates betting on [CSGODouble](http://www.csgodouble.com/) (works with [CSGOPolygon](http://csgopolygon.com/)).
 
 Program interface
